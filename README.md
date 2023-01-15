@@ -8,3 +8,7 @@ This is the repository for the LinkedIn Learning course Spring Code Challenges. 
 # Second Challenge
 ## Log number of orders 
 ![Log number of orders](secondChallenge.PNG)
+
+# Third Challenge
+## Create custom actuator endpoint 
+![Create custom actuator endpoint](thirdChallenge.PNG)
