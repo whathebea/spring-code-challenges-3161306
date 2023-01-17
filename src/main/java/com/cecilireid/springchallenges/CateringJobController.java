@@ -42,8 +42,10 @@ public class CateringJobController {
         return cateringJobRepository.findAllByStatus(status);
     }
 
-    public CateringJob createCateringJob(CateringJob job) {
-        return null;
+    @PostMapping
+    public CateringJob createCateringJob(@RequestBody CateringJob job) {
+        cateringJobRepository.save(job);
+        return job;
     }
 
     public CateringJob updateCateringJob(CateringJob cateringJob, Long id) {
