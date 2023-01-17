@@ -12,3 +12,9 @@ This is the repository for the LinkedIn Learning course Spring Code Challenges. 
 # Third Challenge
 ## Create custom actuator endpoint 
 ![Create custom actuator endpoint](thirdChallenge.PNG)
+
+# Fourth Challenge
+## Create post endpoint
+
+![Create post endpoint](fourthChallenge1.PNG)
+![Create post endpoint](fourthChallenge2.PNG)
